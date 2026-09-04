@@ -7,7 +7,7 @@ about:
   head: 9cb5b1c
   archived: false
   latestVersion: 0.11.1
-  collectedAt: 2026-09-04T19:31:22Z
+  collectedAt: 2026-09-04T21:01:24Z
 timeline:
   created: 2013-04-06
   lastCommit: 2026-06-15
@@ -81,6 +81,54 @@ total:
   openIssue: 283
   commit: 2468
 ---
+path: /home/runner/.x-repo/github.com/lra/mackup
+collectedAt: 2026-09-04T21:01:25Z
+loc:
+  ForgeConfig:
+    code: 3596
+    comments: 17
+    blanks: 681
+    files: 623
+  Python:
+    code: 2724
+    comments: 513
+    blanks: 743
+    files: 18
+  Toml:
+    code: 146
+    comments: 2
+    blanks: 11
+    files: 1
+  Svg:
+    code: 132
+    comments: 19
+    blanks: 21
+    files: 1
+  Makefile:
+    code: 33
+    comments: 4
+    blanks: 10
+    files: 1
+  Yaml:
+    code: 31
+    comments: 0
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1405
+    blanks: 366
+    files: 10
+  Text:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+total:
+  code: 6791
+  comments: 1977
+  blanks: 1856
+  files: 656
 ---
 date: "2026-08-24"
 repo:
