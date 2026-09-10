@@ -7,7 +7,7 @@ about:
   latestVersion: "0.11.2"
   latestRelease: "0.11.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:39:51Z
+  collectedAt: 2026-09-10T16:25:31Z
 timeline:
   created: 2013-04-06
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 15320
+  star: 15321
   watcher: 138
   fork: 944
   release: 39
@@ -84,7 +84,7 @@ total:
   commit: 2470
 ---
 path: /home/runner/.x-repo/github.com/lra/mackup
-collectedAt: 2026-09-10T04:39:52Z
+collectedAt: 2026-09-10T16:25:38Z
 loc:
   ForgeConfig:
     code: 3602
