@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1,
       "digest": "sha256:684888c0ebb17f374298b65ee2807526c066094c701bcc7ebbe1c1095f494fc1",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-09T09:31:26Z",
       "updated_at": "2026-09-09T09:31:26Z",
       "browser_download_url": "https://github.com/lra/mackup/releases/download/0.11.2/default.gitignore"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 209312,
       "digest": "sha256:705a8d2df496c0edfb039bb54ecf523c20916eb5bfd6f66c90c9c0b9bf05a94a",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-09T09:31:26Z",
       "updated_at": "2026-09-09T09:31:26Z",
       "browser_download_url": "https://github.com/lra/mackup/releases/download/0.11.2/mackup-0.11.2-py3-none-any.whl"
