@@ -4,7 +4,7 @@
 
 Backup and keep your application settings in sync.
 
-![mackup](https://repo.x-cmd.io/mackup.svg)
+![mackup](https://repo.x-cmd.io/mackup.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,18 @@ x install mackup
 - **最新版本**: `0.11.2` (2026-09-09)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 3 个
-- **发布时间**: 2026-09-09T09:31:27Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [default.gitignore](https://github.com/lra/mackup/releases/download/0.11.2/default.gitignore) | 1 B | `other` |
+| [mackup-0.11.2-py3-none-any.whl](https://github.com/lra/mackup/releases/download/0.11.2/mackup-0.11.2-py3-none-any.whl) | 204.4 KiB | `other` |
+| [mackup-0.11.2.tar.gz](https://github.com/lra/mackup/releases/download/0.11.2/mackup-0.11.2.tar.gz) | 156.3 KiB | `native/unknown` |
 
 ## 流行度
 
-- **Star**: 15,320 · **Fork**: 944 · **开放 issue**: 723 · **贡献者**: 460
+- **Star**: 15,321 · **Fork**: 944 · **开放 issue**: 723 · **贡献者**: 460
 
 ## 累计统计
 
@@ -71,4 +78,4 @@ mackup 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:39:55Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:26:09Z._

@@ -22,11 +22,18 @@ x install mackup
 - **Latest**: `0.11.2` (2026-09-09)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 3
-- **Published**: 2026-09-09T09:31:27Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [default.gitignore](https://github.com/lra/mackup/releases/download/0.11.2/default.gitignore) | 1 B | `other` |
+| [mackup-0.11.2-py3-none-any.whl](https://github.com/lra/mackup/releases/download/0.11.2/mackup-0.11.2-py3-none-any.whl) | 204.4 KiB | `other` |
+| [mackup-0.11.2.tar.gz](https://github.com/lra/mackup/releases/download/0.11.2/mackup-0.11.2.tar.gz) | 156.3 KiB | `native/unknown` |
 
 ## Popularity
 
-- **Stars**: 15,320 · **Forks**: 944 · **Open issues**: 723 · **Contributors**: 460
+- **Stars**: 15,321 · **Forks**: 944 · **Open issues**: 723 · **Contributors**: 460
 
 ## Totals (cumulative)
 
@@ -67,8 +74,8 @@ Lowest-scoring checks:
 Install metadata for mackup lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mackup` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/mackup.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/mackup.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:39:55Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:26:07Z._
