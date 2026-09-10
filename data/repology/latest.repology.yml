@@ -1,0 +1,139 @@
+- repo: alt_p11
+  srcname: mackup
+  binnames:
+    - mackup
+    - python3-module-mackup
+  visiblename: mackup
+  version: 0.8.40
+  origversion: 0.8.40-alt1
+  status: outdated
+  summary: Keep your application settings in sync
+  maintainers:
+    - amakeenk@altlinux.org
+  licenses:
+    - GPL-3.0
+  categories:
+    - Other
+- repo: altsisyphus
+  srcname: mackup
+  binnames:
+    - mackup
+    - python3-module-mackup
+  visiblename: mackup
+  version: 0.11.1
+  origversion: 0.11.1-alt1
+  status: outdated
+  summary: Keep your application settings in sync
+  maintainers:
+    - amakeenk@altlinux.org
+  licenses:
+    - GPL-3.0
+  categories:
+    - Other
+- repo: aur
+  srcname: mackup
+  binname: mackup
+  visiblename: mackup
+  version: 0.11.1
+  origversion: 0.11.1-1
+  status: outdated
+  summary: a small Python utitlity to keep your application settings in sync.
+  maintainers:
+    - magicandwires@aur
+  licenses:
+    - GPL3
+- repo: aur
+  srcname: mackup-git
+  binname: mackup-git
+  visiblename: mackup-git
+  version: 0.8.24
+  origversion: 0.8.24-1
+  status: rolling
+  summary: a small Python utitlity to keep your application settings in sync.
+  maintainers:
+    - zondan@aur
+  licenses:
+    - GPL3
+- repo: homebrew
+  srcname: mackup
+  visiblename: mackup
+  version: 0.11.2
+  origversion: null
+  status: newest
+  summary: Keep your Mac's application settings in sync
+- repo: homebrew
+  srcname: mackup
+  visiblename: mackup
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Keep your Mac's application settings in sync
+- repo: macports
+  srcname: sysutils/mackup
+  binname: mackup
+  visiblename: mackup
+  version: 0.10.1
+  origversion: null
+  status: outdated
+  summary: Keep your Mac's application settings in sync.
+  maintainers:
+    - newtonne@github
+  licenses:
+    - GPL-3+
+  categories:
+    - sysutils
+- repo: nix_stable_24_11
+  srcname: mackup
+  visiblename: mackup
+  version: 0.8.41
+  origversion: null
+  status: outdated
+  summary: A tool to keep your application settings in sync (OS X/Linux)
+  maintainers:
+    - valentinobocchetti59@gmail.com
+  licenses:
+    - AGPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: mackup
+  visiblename: mackup
+  version: 0.8.41
+  origversion: null
+  status: outdated
+  summary: A tool to keep your application settings in sync (OS X/Linux)
+  maintainers:
+    - valentinobocchetti59@gmail.com
+  licenses:
+    - AGPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: mackup
+  visiblename: mackup
+  version: 0.9.5
+  origversion: null
+  status: outdated
+  summary: Tool to keep your application settings in sync (OS X/Linux)
+  maintainers:
+    - valentinobocchetti59@gmail.com
+  licenses:
+    - AGPL-3.0-only
+- repo: nix_stable_26_05
+  srcname: mackup
+  visiblename: mackup
+  version: 0.10.3
+  origversion: null
+  status: outdated
+  summary: Tool to keep your application settings in sync (OS X/Linux)
+  maintainers:
+    - valentinobocchetti59@gmail.com
+  licenses:
+    - AGPL-3.0-only
+- repo: nix_unstable
+  srcname: mackup
+  visiblename: mackup
+  version: 0.11.1
+  origversion: null
+  status: outdated
+  summary: Tool to keep your application settings in sync (OS X/Linux)
+  maintainers:
+    - valentinobocchetti59@gmail.com
+  licenses:
+    - AGPL-3.0-only
