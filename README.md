@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,320 · **Forks**: 944 · **Open issues**: 723 · **Contributors**: 460
+- **Stars**: 15,321 · **Forks**: 944 · **Open issues**: 723 · **Contributors**: 460
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 1 | 0 | 0 | 0 | 2 |
-| last60d | 2026-07-15 | 1 | 1 | 0 | 0 | 1 | 2 |
-| 90d | 2026-06-15 | 2 | 1 | 0 | 0 | 2 | 11 |
-| last180d | 2026-03-17 | 5 | 20 | 2 | 2 | 7 | 26 |
-| 360d | 2025-09-18 | 15 | 79 | 2 | 10 | 11 | 112 |
-| last720d | 2024-09-23 | 17 | 102 | 2 | 14 | 16 | 146 |
+| 30d | 2026-08-15 | 1 | 1 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-16 | 1 | 1 | 0 | 0 | 1 | 2 |
+| 90d | 2026-06-16 | 1 | 1 | 0 | 0 | 2 | 2 |
+| last180d | 2026-03-18 | 5 | 20 | 2 | 2 | 7 | 25 |
+| 360d | 2025-09-19 | 15 | 79 | 2 | 10 | 11 | 112 |
+| last720d | 2024-09-24 | 17 | 102 | 2 | 14 | 16 | 146 |
 
 ## Release assets
 
@@ -71,15 +71,6 @@ Lowest-scoring checks:
 | [default.gitignore](https://github.com/lra/mackup/releases/download/0.11.2/default.gitignore) | 1 B | `other` |
 | [mackup-0.11.2-py3-none-any.whl](https://github.com/lra/mackup/releases/download/0.11.2/mackup-0.11.2-py3-none-any.whl) | 204.4 KiB | `other` |
 | [mackup-0.11.2.tar.gz](https://github.com/lra/mackup/releases/download/0.11.2/mackup-0.11.2.tar.gz) | 156.3 KiB | `native/unknown` |
-
-## Distribution status
-
-Reported by **12** distros on [repology.org](https://repology.org/project/mackup). **1** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.11.2` | ✅ latest |
-| Nix unstable | `0.11.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -90,4 +81,4 @@ Install metadata for mackup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:55:54Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:05:46Z._

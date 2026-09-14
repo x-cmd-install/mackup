@@ -47,7 +47,7 @@ x install mackup
 
 ## 流行度
 
-- **Star**: 15,320 · **Fork**: 944 · **开放 issue**: 723 · **贡献者**: 460
+- **Star**: 15,321 · **Fork**: 944 · **开放 issue**: 723 · **贡献者**: 460
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install mackup
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 1 | 0 | 0 | 0 | 2 |
-| last60d | 2026-07-15 | 1 | 1 | 0 | 0 | 1 | 2 |
-| 90d | 2026-06-15 | 2 | 1 | 0 | 0 | 2 | 11 |
-| last180d | 2026-03-17 | 5 | 20 | 2 | 2 | 7 | 26 |
-| 360d | 2025-09-18 | 15 | 79 | 2 | 10 | 11 | 112 |
-| last720d | 2024-09-23 | 17 | 102 | 2 | 14 | 16 | 146 |
+| 30d | 2026-08-15 | 1 | 1 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-16 | 1 | 1 | 0 | 0 | 1 | 2 |
+| 90d | 2026-06-16 | 1 | 1 | 0 | 0 | 2 | 2 |
+| last180d | 2026-03-18 | 5 | 20 | 2 | 2 | 7 | 25 |
+| 360d | 2025-09-19 | 15 | 79 | 2 | 10 | 11 | 112 |
+| last720d | 2024-09-24 | 17 | 102 | 2 | 14 | 16 | 146 |
 
 ## Release 资产
 
@@ -71,15 +71,6 @@ x install mackup
 | [default.gitignore](https://github.com/lra/mackup/releases/download/0.11.2/default.gitignore) | 1 B | `other` |
 | [mackup-0.11.2-py3-none-any.whl](https://github.com/lra/mackup/releases/download/0.11.2/mackup-0.11.2-py3-none-any.whl) | 204.4 KiB | `other` |
 | [mackup-0.11.2.tar.gz](https://github.com/lra/mackup/releases/download/0.11.2/mackup-0.11.2.tar.gz) | 156.3 KiB | `native/unknown` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/mackup) 上共有 **12** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**9** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.11.2` | ✅ latest |
-| Nix unstable | `0.11.1` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -90,4 +81,4 @@ mackup 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T04:55:54Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:05:46Z._
