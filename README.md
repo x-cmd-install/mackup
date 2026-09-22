@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 1 | 1 | 0 | 0 | 0 | 2 |
-| last60d | 2026-07-23 | 1 | 1 | 0 | 0 | 0 | 2 |
-| 90d | 2026-06-23 | 1 | 1 | 0 | 0 | 2 | 2 |
-| last180d | 2026-03-25 | 5 | 20 | 2 | 2 | 7 | 24 |
-| 360d | 2025-09-26 | 15 | 79 | 2 | 10 | 11 | 112 |
-| last720d | 2024-10-01 | 17 | 102 | 2 | 14 | 16 | 146 |
+| 30d | 2026-08-23 | 1 | 1 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-24 | 1 | 1 | 0 | 0 | 0 | 2 |
+| 90d | 2026-06-24 | 1 | 1 | 0 | 0 | 1 | 2 |
+| last180d | 2026-03-26 | 5 | 20 | 2 | 2 | 7 | 24 |
+| 360d | 2025-09-27 | 15 | 79 | 2 | 10 | 11 | 112 |
+| last720d | 2024-10-02 | 17 | 102 | 2 | 14 | 16 | 146 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for mackup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:21:27Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:51:50Z._
