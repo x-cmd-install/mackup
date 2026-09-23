@@ -4,7 +4,7 @@
 
 Backup and keep your application settings in sync.
 
-[![x-cmd/install — mackup Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mackup.svg)](https://x-cmd.com/install/mackup)
+[![x-cmd/install — mackup Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mackup.svg)](https://x-cmd.com/install/mackup)
 
 ## Install
 
@@ -30,9 +30,9 @@ Overall score: **3.2 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (3/10) — Found 11/29 approved changesets -- score normalized to 3
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
 
 ## Source
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 1 | 0 | 0 | 0 | 2 |
-| last60d | 2026-07-24 | 1 | 1 | 0 | 0 | 0 | 2 |
-| 90d | 2026-06-24 | 1 | 1 | 0 | 0 | 1 | 2 |
-| last180d | 2026-03-26 | 5 | 20 | 2 | 2 | 7 | 24 |
-| 360d | 2025-09-27 | 15 | 79 | 2 | 10 | 11 | 112 |
-| last720d | 2024-10-02 | 17 | 102 | 2 | 14 | 16 | 146 |
+| 30d | 2026-08-24 | 1 | 1 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-25 | 1 | 1 | 0 | 0 | 0 | 2 |
+| 90d | 2026-06-25 | 1 | 1 | 0 | 0 | 1 | 2 |
+| last180d | 2026-03-27 | 5 | 20 | 2 | 2 | 7 | 24 |
+| 360d | 2025-09-28 | 15 | 79 | 2 | 10 | 11 | 112 |
+| last720d | 2024-10-03 | 17 | 102 | 2 | 14 | 16 | 146 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for mackup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:51:50Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:00:38Z._
