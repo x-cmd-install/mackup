@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 1 | 1 | 0 | 0 | 0 | 2 |
-| 90d | 2026-07-24 | 1 | 1 | 0 | 0 | 0 | 2 |
-| last180d | 2026-04-25 | 5 | 14 | 0 | 2 | 5 | 19 |
-| 360d | 2025-10-27 | 10 | 53 | 2 | 3 | 10 | 68 |
-| last720d | 2024-11-01 | 17 | 101 | 2 | 13 | 16 | 146 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 1 | 1 | 0 | 0 | 0 | 2 |
+| 90d | 2026-07-25 | 1 | 1 | 0 | 0 | 0 | 2 |
+| last180d | 2026-04-26 | 5 | 14 | 0 | 2 | 5 | 19 |
+| 360d | 2025-10-28 | 10 | 52 | 2 | 3 | 10 | 68 |
+| last720d | 2024-11-02 | 17 | 101 | 2 | 13 | 16 | 145 |
 
 ## Release assets
 
@@ -71,6 +71,15 @@ Lowest-scoring checks:
 | [default.gitignore](https://github.com/lra/mackup/releases/download/0.11.2/default.gitignore) | 1 B | `other` |
 | [mackup-0.11.2-py3-none-any.whl](https://github.com/lra/mackup/releases/download/0.11.2/mackup-0.11.2-py3-none-any.whl) | 204.4 KiB | `other` |
 | [mackup-0.11.2.tar.gz](https://github.com/lra/mackup/releases/download/0.11.2/mackup-0.11.2.tar.gz) | 156.3 KiB | `native/unknown` |
+
+## Distribution status
+
+Reported by **12** distros on [repology.org](https://repology.org/project/mackup). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.11.2` | ✅ latest |
+| Nix unstable | `0.11.2` | ✅ latest |
 
 ## Improve this data
 
@@ -81,4 +90,4 @@ Install metadata for mackup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:38:07Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:52:51Z._
