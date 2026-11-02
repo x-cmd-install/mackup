@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,355 · **Forks**: 942 · **Open issues**: 723 · **Contributors**: 459
+- **Stars**: 15,355 · **Forks**: 941 · **Open issues**: 723 · **Contributors**: 459
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-02 | 1 | 1 | 0 | 0 | 0 | 2 |
-| 90d | 2026-08-03 | 1 | 1 | 0 | 0 | 0 | 2 |
-| last180d | 2026-05-05 | 5 | 13 | 0 | 1 | 5 | 18 |
-| 360d | 2025-11-06 | 9 | 51 | 2 | 2 | 10 | 65 |
-| last720d | 2024-11-11 | 17 | 101 | 2 | 12 | 16 | 145 |
+| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-03 | 1 | 1 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-04 | 1 | 1 | 0 | 0 | 0 | 2 |
+| last180d | 2026-05-06 | 5 | 12 | 0 | 1 | 5 | 17 |
+| 360d | 2025-11-07 | 9 | 44 | 2 | 2 | 9 | 48 |
+| last720d | 2024-11-12 | 17 | 101 | 2 | 12 | 16 | 145 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for mackup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:04:50Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:15:07Z._
