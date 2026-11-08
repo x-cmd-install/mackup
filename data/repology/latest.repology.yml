@@ -1,36 +1,3 @@
-- repo: nix_stable_24_11
-  srcname: mackup
-  visiblename: mackup
-  version: 0.8.41
-  origversion: null
-  status: outdated
-  summary: A tool to keep your application settings in sync (OS X/Linux)
-  maintainers:
-    - valentinobocchetti59@gmail.com
-  licenses:
-    - AGPL-3.0-only
-- repo: nix_stable_25_11
-  srcname: mackup
-  visiblename: mackup
-  version: 0.9.5
-  origversion: null
-  status: outdated
-  summary: Tool to keep your application settings in sync (OS X/Linux)
-  maintainers:
-    - valentinobocchetti59@gmail.com
-  licenses:
-    - AGPL-3.0-only
-- repo: nix_stable_25_05
-  srcname: mackup
-  visiblename: mackup
-  version: 0.8.41
-  origversion: null
-  status: outdated
-  summary: A tool to keep your application settings in sync (OS X/Linux)
-  maintainers:
-    - valentinobocchetti59@gmail.com
-  licenses:
-    - AGPL-3.0-only
 - repo: alt_p11
   srcname: mackup
   binnames:
@@ -115,6 +82,39 @@
     - GPL-3+
   categories:
     - sysutils
+- repo: nix_stable_24_11
+  srcname: mackup
+  visiblename: mackup
+  version: 0.8.41
+  origversion: null
+  status: outdated
+  summary: A tool to keep your application settings in sync (OS X/Linux)
+  maintainers:
+    - valentinobocchetti59@gmail.com
+  licenses:
+    - AGPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: mackup
+  visiblename: mackup
+  version: 0.8.41
+  origversion: null
+  status: outdated
+  summary: A tool to keep your application settings in sync (OS X/Linux)
+  maintainers:
+    - valentinobocchetti59@gmail.com
+  licenses:
+    - AGPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: mackup
+  visiblename: mackup
+  version: 0.9.5
+  origversion: null
+  status: outdated
+  summary: Tool to keep your application settings in sync (OS X/Linux)
+  maintainers:
+    - valentinobocchetti59@gmail.com
+  licenses:
+    - AGPL-3.0-only
 - repo: nix_stable_26_05
   srcname: mackup
   visiblename: mackup
@@ -136,4 +136,4 @@
   maintainers:
     - valentinobocchetti59@gmail.com
   licenses:
-    - AGPL-3.0-only
+    - GPL-3.0-or-later
