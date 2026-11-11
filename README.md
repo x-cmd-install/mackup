@@ -14,11 +14,11 @@ x install mackup
 
 ## Code insight
 
-Total: **6,668** lines of code across **645** files in the top 5 languages.
+Total: **6,672** lines of code across **645** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| ForgeConfig | 3,602 | 17 | 682 | 624 |
+| ForgeConfig | 3,606 | 17 | 683 | 624 |
 | Python | 2,724 | 513 | 743 | 18 |
 | Toml | 146 | 2 | 11 | 1 |
 | Svg | 132 | 19 | 21 | 1 |
@@ -41,36 +41,36 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `0.11.2` (2026-09-09)
-- **Last commit**: 2026-09-09
+- **Latest**: `0.11.3` (2026-11-10)
+- **Last commit**: 2026-11-10
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 15,359 · **Forks**: 939 · **Open issues**: 723 · **Contributors**: 459
+- **Stars**: 15,360 · **Forks**: 940 · **Open issues**: 723 · **Contributors**: 460
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 1070 · **Open PRs**: 11 · **Closed issues**: 442 · **Open issues**: 281 · **Commits**: 2470
+- **Releases**: 40 · **Merged PRs**: 1072 · **Open PRs**: 11 · **Closed issues**: 442 · **Open issues**: 281 · **Commits**: 2473
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-12 | 1 | 1 | 0 | 0 | 0 | 2 |
-| last180d | 2026-05-14 | 5 | 12 | 0 | 0 | 4 | 16 |
-| 360d | 2025-11-15 | 7 | 38 | 2 | 2 | 9 | 45 |
-| last720d | 2024-11-20 | 17 | 101 | 2 | 12 | 16 | 145 |
+| 30d | 2026-10-12 | 1 | 2 | 0 | 0 | 0 | 3 |
+| last60d | 2026-09-12 | 1 | 2 | 0 | 0 | 0 | 3 |
+| 90d | 2026-08-13 | 2 | 3 | 0 | 0 | 0 | 5 |
+| last180d | 2026-05-15 | 5 | 14 | 0 | 0 | 4 | 19 |
+| 360d | 2025-11-16 | 8 | 40 | 2 | 2 | 9 | 48 |
+| last720d | 2024-11-21 | 18 | 103 | 2 | 12 | 16 | 148 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [default.gitignore](https://github.com/lra/mackup/releases/download/0.11.2/default.gitignore) | 1 B | `other` |
-| [mackup-0.11.2-py3-none-any.whl](https://github.com/lra/mackup/releases/download/0.11.2/mackup-0.11.2-py3-none-any.whl) | 204.4 KiB | `other` |
-| [mackup-0.11.2.tar.gz](https://github.com/lra/mackup/releases/download/0.11.2/mackup-0.11.2.tar.gz) | 156.3 KiB | `native/unknown` |
+| [default.gitignore](https://github.com/lra/mackup/releases/download/0.11.3/default.gitignore) | 1 B | `other` |
+| [mackup-0.11.3-py3-none-any.whl](https://github.com/lra/mackup/releases/download/0.11.3/mackup-0.11.3-py3-none-any.whl) | 204.5 KiB | `other` |
+| [mackup-0.11.3.tar.gz](https://github.com/lra/mackup/releases/download/0.11.3/mackup-0.11.3.tar.gz) | 168.7 KiB | `native/unknown` |
 
 ## Distribution status
 
@@ -90,4 +90,4 @@ Install metadata for mackup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:24:23Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:05:13Z._
