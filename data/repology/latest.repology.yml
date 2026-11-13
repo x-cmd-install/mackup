@@ -22,7 +22,7 @@
   visiblename: mackup
   version: 0.11.2
   origversion: 0.11.2-alt1
-  status: newest
+  status: outdated
   summary: Keep your application settings in sync
   maintainers:
     - amakeenk@altlinux.org
@@ -57,7 +57,7 @@
 - repo: homebrew
   srcname: mackup
   visiblename: mackup
-  version: 0.11.2
+  version: 0.11.3
   origversion: null
   status: newest
   summary: Keep your Mac's application settings in sync
@@ -131,7 +131,7 @@
   visiblename: mackup
   version: 0.11.2
   origversion: null
-  status: newest
+  status: outdated
   summary: Tool to keep your application settings in sync (OS X/Linux)
   maintainers:
     - valentinobocchetti59@gmail.com
