@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 172783,
       "digest": "sha256:efb0d6e33abb4437cb3d382ae4255348ea7e5ea437a33d40ec03869b54bde381",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-11-10T16:46:47Z",
       "updated_at": "2026-11-10T16:46:47Z",
       "browser_download_url": "https://github.com/lra/mackup/releases/download/0.11.3/mackup-0.11.3.tar.gz"
