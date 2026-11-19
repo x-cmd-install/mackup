@@ -14,25 +14,15 @@ x install mackup
 
 ## Code insight
 
-Total: **6,672** lines of code across **645** files in the top 5 languages.
+Total: **6,705** lines of code across **645** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | ForgeConfig | 3,606 | 17 | 683 | 624 |
-| Python | 2,724 | 513 | 743 | 18 |
+| Python | 2,757 | 513 | 753 | 18 |
 | Toml | 146 | 2 | 11 | 1 |
 | Svg | 132 | 19 | 21 | 1 |
 | Makefile | 33 | 4 | 10 | 1 |
-
-## OpenSSF Scorecard
-
-Overall score: **3.2 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (3/10) — Found 11/29 approved changesets -- score normalized to 3
-- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
-- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -42,27 +32,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.11.3` (2026-11-10)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-17
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 15,359 · **Forks**: 941 · **Open issues**: 723 · **Contributors**: 460
+- **Stars**: 15,361 · **Forks**: 941 · **Open issues**: 723 · **Contributors**: 461
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 1072 · **Open PRs**: 12 · **Closed issues**: 442 · **Open issues**: 281 · **Commits**: 2473
+- **Releases**: 40 · **Merged PRs**: 1073 · **Open PRs**: 11 · **Closed issues**: 443 · **Open issues**: 280 · **Commits**: 2474
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 2 | 1 | 0 | 0 | 3 |
-| last60d | 2026-09-18 | 1 | 2 | 1 | 0 | 0 | 3 |
-| 90d | 2026-08-19 | 2 | 3 | 1 | 0 | 0 | 5 |
-| last180d | 2026-05-21 | 5 | 13 | 1 | 0 | 3 | 17 |
-| 360d | 2025-11-22 | 8 | 40 | 3 | 2 | 9 | 47 |
-| last720d | 2024-11-27 | 18 | 103 | 3 | 12 | 16 | 148 |
+| 30d | 2026-10-20 | 1 | 3 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-20 | 1 | 3 | 0 | 0 | 0 | 4 |
+| 90d | 2026-08-21 | 2 | 4 | 0 | 0 | 0 | 6 |
+| last180d | 2026-05-23 | 5 | 13 | 0 | 0 | 3 | 18 |
+| 360d | 2025-11-24 | 8 | 41 | 2 | 2 | 9 | 48 |
+| last720d | 2024-11-29 | 18 | 104 | 2 | 12 | 16 | 149 |
 
 ## Release assets
 
@@ -90,4 +80,4 @@ Install metadata for mackup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:18:46Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:23:17Z._
