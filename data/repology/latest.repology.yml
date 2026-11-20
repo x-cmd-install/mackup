@@ -129,9 +129,9 @@
 - repo: nix_unstable
   srcname: mackup
   visiblename: mackup
-  version: 0.11.2
+  version: 0.11.3
   origversion: null
-  status: outdated
+  status: newest
   summary: Tool to keep your application settings in sync (OS X/Linux)
   maintainers:
     - valentinobocchetti59@gmail.com
