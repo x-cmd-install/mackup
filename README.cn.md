@@ -24,16 +24,6 @@ x install mackup
 | Svg | 132 | 19 | 21 | 1 |
 | Makefile | 33 | 4 | 10 | 1 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **3.2 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (3/10) — Found 11/29 approved changesets -- score normalized to 3
-- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
-- **Packaging** (-1/10) — packaging workflow not detected
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/lra/mackup>
@@ -47,7 +37,7 @@ x install mackup
 
 ## 流行度
 
-- **Star**: 15,361 · **Fork**: 939 · **开放 issue**: 723 · **贡献者**: 461
+- **Star**: 15,359 · **Fork**: 939 · **开放 issue**: 723 · **贡献者**: 461
 
 ## 累计统计
 
@@ -57,12 +47,12 @@ x install mackup
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 3 | 0 | 0 | 0 | 4 |
-| last60d | 2026-09-26 | 1 | 3 | 0 | 0 | 0 | 4 |
-| 90d | 2026-08-27 | 2 | 4 | 0 | 0 | 0 | 6 |
-| last180d | 2026-05-29 | 5 | 12 | 0 | 0 | 2 | 17 |
-| 360d | 2025-11-30 | 7 | 40 | 2 | 2 | 9 | 46 |
-| last720d | 2024-12-05 | 18 | 104 | 2 | 11 | 15 | 149 |
+| 30d | 2026-10-27 | 1 | 3 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 1 | 3 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 2 | 4 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 5 | 12 | 0 | 0 | 2 | 0 |
+| 360d | 2025-12-01 | 7 | 40 | 2 | 2 | 9 | 0 |
+| last720d | 2024-12-06 | 18 | 104 | 2 | 11 | 15 | 149 |
 
 ## Release 资产
 
@@ -81,4 +71,4 @@ mackup 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T08:43:22Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T08:10:02Z._

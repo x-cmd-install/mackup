@@ -24,16 +24,6 @@ Total: **6,705** lines of code across **645** files in the top 5 languages.
 | Svg | 132 | 19 | 21 | 1 |
 | Makefile | 33 | 4 | 10 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **3.2 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (3/10) — Found 11/29 approved changesets -- score normalized to 3
-- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
-- **Packaging** (-1/10) — packaging workflow not detected
-
 ## Source
 
 - **Upstream**: <https://github.com/lra/mackup>
@@ -47,7 +37,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,361 · **Forks**: 939 · **Open issues**: 723 · **Contributors**: 461
+- **Stars**: 15,359 · **Forks**: 939 · **Open issues**: 723 · **Contributors**: 461
 
 ## Totals (cumulative)
 
@@ -57,12 +47,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 3 | 0 | 0 | 0 | 4 |
-| last60d | 2026-09-26 | 1 | 3 | 0 | 0 | 0 | 4 |
-| 90d | 2026-08-27 | 2 | 4 | 0 | 0 | 0 | 6 |
-| last180d | 2026-05-29 | 5 | 12 | 0 | 0 | 2 | 17 |
-| 360d | 2025-11-30 | 7 | 40 | 2 | 2 | 9 | 46 |
-| last720d | 2024-12-05 | 18 | 104 | 2 | 11 | 15 | 149 |
+| 30d | 2026-10-27 | 1 | 3 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 1 | 3 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 2 | 4 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 5 | 12 | 0 | 0 | 2 | 0 |
+| 360d | 2025-12-01 | 7 | 40 | 2 | 2 | 9 | 0 |
+| last720d | 2024-12-06 | 18 | 104 | 2 | 11 | 15 | 149 |
 
 ## Release assets
 
@@ -81,4 +71,4 @@ Install metadata for mackup lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:43:21Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:10:01Z._
